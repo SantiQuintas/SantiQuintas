@@ -8,10 +8,9 @@
 - 🔭 I’m currently working on my **University Projects**
 
 - 🌱 I’m currently learning
-  -  **Prolog**
-  -  **Haskell**
   -  **React**
   -  **Node**
+  -  **TypeScript**
 
 - Outside tech, 📖 I love football, 🖌️ drawing, 🎵 listen to music, and 🕹️ playing videogames.
   
